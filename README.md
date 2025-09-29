@@ -2,7 +2,7 @@
 UUID file spam program in C++ complete with popup spam
 
 
-for bulding, it requires the boost uuid libraries 
+for bulding, it requires the boost uuid libraries, as well as requiring c++≥17 due to the filesystem include idicator.
 
 (I used visual studio 2022 to make this if that matters)
 
